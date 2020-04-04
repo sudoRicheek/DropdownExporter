@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Compatibility: 3.x, 4.x
+Name: DropdownExporter
+Main: main.js
+Icon: icon.png
+Link: README.md
+Description: Select PDF, HTML, TeX, py or markdown and export them !
